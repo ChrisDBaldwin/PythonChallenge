@@ -2,7 +2,7 @@
 # Chris Baldwin
 # Completed
 # Answer: equality 
-# This is a rather slow implementation, O(n^2) if I recall
+# This is a rather slow implementation, O(n) where n is the number of characters if I recall
 # I'm sure I could do better
 # Moving on
 
